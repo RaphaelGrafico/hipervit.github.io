@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+}
+  
+.background  {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #ffb901;
+    background-image: url('../img/orange_background-min.png');
+    background-blend-mode: multiply;
+    position: relative;
+}
+
+header {
+    position: absolute;
+    width: 900px;
+}
